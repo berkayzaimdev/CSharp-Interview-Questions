@@ -36,5 +36,8 @@
  * Soru 1: Bir C# sınıfı nasıl F# sınıfından kalıtım alabilir?
  * - İkisi de .NET tabanlı olduğu için bu diller arası CIL kodu aracılığıyla bağlantı kurulabilir
 
+ * Soru 2: JIT compiler, çalışma zamanında mı çalışır, derleme zamanında mı?
+ * - Çalışma zamanında çalışır
+ 
  * 
  */

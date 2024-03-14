@@ -1,0 +1,21 @@
+* Common Language Runtime(CLR), .NET uygulamalarýnýn yönetildiði ortamdýr. Çalýþma zamanýný an ve an denetler, beklenmeyen bir durum karþýsýnda hemen aksiyona geçer.
+
+* CLR sayesinde .NET destekli diller arasýnda çapraz entegrasyon saðlanýr. C#, F# ve VB gibi diller bu kapsama girer.
+
+* CLR, þu temel iþlevleri yönetir;
+
+   - JIT derlemesi: CIL kodlarýný derleyen JIT sayesinde makine kodu oluþturulur.
+   - Bellek yönetimi: CLR, programdaki her bir nesne için gerekli bellek alaný ayýrýr. Bu bellekleri gerekli durumlarda yok edebilir.
+   - Hata yönetimi: Bir exception oluþtuðunda catch bloðuna yönlendirmeyi CLR saðlar.
+   - Thread yönetimi: Multithread yapýsýna uygun þekilde threadleri uygun þekilde çalýþtýrýr.
+   - Tür güvenliði: CLR'nin bir parçasý olan CTS, .NET destekli dillerdeki standartlarý belirler. 
+
+   CLR (CIL)'in bir implementasyondur. CIL, Microsoft tarafýndan geliþtirilen bir þablondur. Bu þablon kullanýlarak CLR oluþturulmuþtur.
+
+
+   CLR'nin adým adým çalýþmasý;
+      - Programcý gerekli kodlarý yazar ve derlemeyi harekete geçirir,
+      - Derlenen kodlar CIL'e çevrilir
+      - CLR harekete geçer ve CIL kodlarýný JIT ile makine koduna çevirir. 
+      - CLR halen koþmaktadýr ve gereki iþlevlerini yönetir.
+      - Uygulama sonlandýrýldýðýnda CLR de sonlanýr.
