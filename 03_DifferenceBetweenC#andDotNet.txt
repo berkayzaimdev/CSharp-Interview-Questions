@@ -1,0 +1,14 @@
+* C# bir programlama dilidir.
+
+* .NET ise C# gibi, .NET uyumlu dilleri destekleyen bir yazýlým çerçevesidir(framework)
+
+* Bu iki kavram için uçak ve havaalaný benzetmesi yapabiliriz.
+   - C#'ý bir uçak,
+   - .NET'i ise havaalaný olarak tanýmlayalým;
+
+   - Ýkisi de birbiri olmadan çok iþlevsel deðillerdir. Havaalanýnýn anlamý uçaklarla etkileþimde olmasýdýr. Uçaðýn havaalanýna baðlýlýðý ise iniþ kontrolü ve yakýt doldurma gibi iþlevlerle olur
+
+* .NET framework, temel kütüphaneleri(System.String, System.Random vs.) içerisinde barýndýrýr.
+
+* .NET, tarihçesi sebebiyle kullanýcýlar tarafýndan ismi sýk sýk karýþtýrýlmýþ olan bir kavramdýr,
+.NET Core'un 2020'deki çýkýþý bu karmaþayý daha da arttýrmýþtýr. .NET Core, .NET refactoru sonucu oluþturulan açýk kaynak kodlu bir uygulama geliþtirme platformudur. Cross-platform olarak çalýþýr.

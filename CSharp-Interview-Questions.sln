@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Junior Level", "Junior Level", "{1AE62833-2820-45BA-BB4E-0FB0C1371818}"
 	ProjectSection(SolutionItems) = preProject
 		02_CommonLanguageRuntime.txt = 02_CommonLanguageRuntime.txt
+		03_DifferenceBetweenC#andDotNet.txt = 03_DifferenceBetweenC#andDotNet.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mid Level", "Mid Level", "{53D3610B-9562-4D52-ACEA-C5C77962E914}"
