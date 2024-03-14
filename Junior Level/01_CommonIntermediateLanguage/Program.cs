@@ -21,3 +21,20 @@
         Console.ReadKey();
     }
 }
+
+/*
+ * 
+ 
+ * .NET tabanlı diller; C#, F# ve Visual Basic olarak karşımıza çıkmaktadır.
+ * Bu diller, program koşturulmaya çalışıldığı anda kendi compiler'ları aracılığıyla CIL adı verilen bir koda dönüştürülürler.
+ * Bu CIL kodları, programın bulunduğu dizinde /bin altdizini altında .dll formatıyla tutulurlar. 
+ 
+ * Ildasm adı verilen .NET'e dahili gelen bir yazılım sayesinde bu .dll dosyasını açabilir ve CIL kodları görebiliriz.
+ 
+ * CIL kodları Just-in-Time compiler aracılığıyla makine kodlarına dönüştürülür. Bu kodlar, bilgisayarın anlayabileceği ham formattadır.
+ 
+ * Soru 1: Bir C# sınıfı nasıl F# sınıfından kalıtım alabilir?
+ * - İkisi de .NET tabanlı olduğu için bu diller arası CIL kodu aracılığıyla bağlantı kurulabilir
+
+ * 
+ */
