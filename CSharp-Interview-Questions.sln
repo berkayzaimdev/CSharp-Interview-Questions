@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_NewKeyword", "Junior Lev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_StaticKeyword", "Junior Level\15_StaticKeyword\15_StaticKeyword.csproj", "{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_StaticClass", "Junior Level\16_StaticClass\16_StaticClass.csproj", "{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -113,6 +119,7 @@ Global
 		{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
