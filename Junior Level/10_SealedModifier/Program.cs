@@ -35,6 +35,10 @@ public sealed class SealedBase
 //{
 //}
 
+//bu sınıf derlenemez çünkü statik sınıflar default olarak sealed olarak işaretlenmiştir
+//sealed static Test
+//{
+//}
 
 class Program
 {
