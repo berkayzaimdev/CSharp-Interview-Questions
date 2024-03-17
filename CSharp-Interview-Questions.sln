@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_ParamsKeyword", "Junior 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_PartialClasses", "Junior Level\13_PartialClasses\13_PartialClasses.csproj", "{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_NewKeyword", "Junior Level\14_NewKeyword\14_NewKeyword.csproj", "{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +105,7 @@ Global
 		{7012DE49-14D4-4ECD-A08B-0898FB64A312} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{A3EFB2DA-FA8F-459D-A66D-084928933254} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
