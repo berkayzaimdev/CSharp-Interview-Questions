@@ -17,5 +17,5 @@
       - Programcý gerekli kodlarý yazar ve derlemeyi harekete geçirir,
       - Derlenen kodlar CIL'e çevrilir
       - CLR harekete geçer ve CIL kodlarýný JIT ile makine koduna çevirir. 
-      - CLR halen koþmaktadýr ve gereki iþlevlerini yönetir.
+      - CLR halen koþmaktadýr ve gerekli iþlevlerini yönetir.
       - Uygulama sonlandýrýldýðýnda CLR de sonlanýr.

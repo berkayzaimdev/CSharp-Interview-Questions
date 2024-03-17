@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_TypesOfErrors", "Junior 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_BoxingAndUnboxing", "Junior Level\05_BoxingAndUnboxing\05_BoxingAndUnboxing.csproj", "{4019219B-EEDF-4768-8AC2-B28655210E30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Exceptions", "Junior Level\07_Exceptions\07_Exceptions.csproj", "{6132FE85-94C5-4F6C-A628-45956B8F95D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_Exceptions", "Junior Level\07_Exceptions\07_Exceptions.csproj", "{6132FE85-94C5-4F6C-A628-45956B8F95D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_AccessModifiers", "Junior Level\08_AccessModifiers\08_AccessModifiers.csproj", "{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{6132FE85-94C5-4F6C-A628-45956B8F95D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6132FE85-94C5-4F6C-A628-45956B8F95D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6132FE85-94C5-4F6C-A628-45956B8F95D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{C18A958F-E1A7-4196-9FBD-B5500B7A95FE} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{4019219B-EEDF-4768-8AC2-B28655210E30} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{6132FE85-94C5-4F6C-A628-45956B8F95D3} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
