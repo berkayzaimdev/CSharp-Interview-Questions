@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_RefAndOut", "Junior Leve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_InterfaceVsAbstractClass", "Junior Level\31_InterfaceVsAbstractClass\31_InterfaceVsAbstractClass.csproj", "{B6E8FD01-B493-45BF-B963-DC46DE1D512E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_Polymorphism", "Junior Level\32_Polymorphism\32_Polymorphism.csproj", "{4FC0EDB3-85E3-4497-9439-85C7B5C450D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,10 @@ Global
 		{B6E8FD01-B493-45BF-B963-DC46DE1D512E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6E8FD01-B493-45BF-B963-DC46DE1D512E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6E8FD01-B493-45BF-B963-DC46DE1D512E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC0EDB3-85E3-4497-9439-85C7B5C450D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC0EDB3-85E3-4497-9439-85C7B5C450D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC0EDB3-85E3-4497-9439-85C7B5C450D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC0EDB3-85E3-4497-9439-85C7B5C450D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -225,6 +231,7 @@ Global
 		{5154F2B9-7016-41B0-B6A0-07F25A994B6D} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{647CAA63-9BD4-4088-BCD6-0FA9DC5E9AF2} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{B6E8FD01-B493-45BF-B963-DC46DE1D512E} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{4FC0EDB3-85E3-4497-9439-85C7B5C450D9} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
