@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_GarbageCollector", "Juni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Nullable", "Junior Level\Nullable\26_Nullable.csproj", "{02F27484-704F-4971-87CC-D994B404BDF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_Properties", "Junior Level\27_Properties\27_Properties.csproj", "{D02FCCD9-CD97-481D-8274-7DC6B6519DA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +163,10 @@ Global
 		{02F27484-704F-4971-87CC-D994B404BDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02F27484-704F-4971-87CC-D994B404BDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02F27484-704F-4971-87CC-D994B404BDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02FCCD9-CD97-481D-8274-7DC6B6519DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02FCCD9-CD97-481D-8274-7DC6B6519DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02FCCD9-CD97-481D-8274-7DC6B6519DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02FCCD9-CD97-481D-8274-7DC6B6519DA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -190,6 +196,7 @@ Global
 		{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{09128BCC-CDF0-45A8-A7D9-477C9671E98A} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{02F27484-704F-4971-87CC-D994B404BDF0} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{D02FCCD9-CD97-481D-8274-7DC6B6519DA9} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
