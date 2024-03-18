@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38_MagicNumber", "Junior Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_DontRepeatYourself", "Junior Level\37_DontRepeatYourself\37_DontRepeatYourself.csproj", "{0411FB24-2412-4EFB-B9B6-5CC7ABA10FCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_GoTo", "39_GoTo\39_GoTo.csproj", "{1BCE8971-16F4-420F-A64D-9050672C0F2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -233,6 +235,10 @@ Global
 		{0411FB24-2412-4EFB-B9B6-5CC7ABA10FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0411FB24-2412-4EFB-B9B6-5CC7ABA10FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0411FB24-2412-4EFB-B9B6-5CC7ABA10FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCE8971-16F4-420F-A64D-9050672C0F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCE8971-16F4-420F-A64D-9050672C0F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCE8971-16F4-420F-A64D-9050672C0F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCE8971-16F4-420F-A64D-9050672C0F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -274,6 +280,7 @@ Global
 		{B2472D5D-93AC-45C0-A126-61A74DBD55E8} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{0814AC02-B626-48D2-A563-BAC15A50F484} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{0411FB24-2412-4EFB-B9B6-5CC7ABA10FCD} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{1BCE8971-16F4-420F-A64D-9050672C0F2B} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
