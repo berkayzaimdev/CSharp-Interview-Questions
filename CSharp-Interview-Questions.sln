@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_MethodOverloading", "Jun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_MethodOverridingVsMethodHiding", "Junior Level\35_MethodOverridingVsMethodHiding\35_MethodOverridingVsMethodHiding.csproj", "{574A6C45-68B4-4DB3-BC8B-56B56CB40299}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_MultipleInheritance", "Junior Level\36_MultipleInheritance\36_MultipleInheritance.csproj", "{B2472D5D-93AC-45C0-A126-61A74DBD55E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -215,6 +217,10 @@ Global
 		{574A6C45-68B4-4DB3-BC8B-56B56CB40299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{574A6C45-68B4-4DB3-BC8B-56B56CB40299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{574A6C45-68B4-4DB3-BC8B-56B56CB40299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2472D5D-93AC-45C0-A126-61A74DBD55E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2472D5D-93AC-45C0-A126-61A74DBD55E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2472D5D-93AC-45C0-A126-61A74DBD55E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2472D5D-93AC-45C0-A126-61A74DBD55E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -253,6 +259,7 @@ Global
 		{C348B32A-B7C8-47D9-A2FD-7C8251244F5D} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{D362E699-77B0-461B-B39D-5F6DFBDE9888} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{574A6C45-68B4-4DB3-BC8B-56B56CB40299} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{B2472D5D-93AC-45C0-A126-61A74DBD55E8} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
