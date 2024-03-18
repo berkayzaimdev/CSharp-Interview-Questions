@@ -52,4 +52,6 @@ class Program
  * Extension methodlar, sınıfa sınıfı değiştirmeden ve sınıfa kalıtım vermeden fonksiyonalite katan methodlardır.
  * Extension method yazılan sınıfı tekrar derlememiz gerekmez.
  * Extension methodları, extend edilen sınıfın bir metodu gibi kullanırız.
+ * 
+ * Extension method olma koşulu methodları barındıran sınıfın static olması ve methodlarda this keyword içermesidir
  */

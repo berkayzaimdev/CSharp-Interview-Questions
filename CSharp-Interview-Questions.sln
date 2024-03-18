@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_LINQ", "Junior Level\20_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_ExtensionMethods", "Junior Level\21_ExtensionMethods\21_ExtensionMethods.csproj", "{8C6D21D2-1EF3-4E8E-A76D-47A684EC37A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_IEnumerable", "22_IEnumerable\22_IEnumerable.csproj", "{41942743-5C25-488C-87AD-DCD7C83EFA00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{8C6D21D2-1EF3-4E8E-A76D-47A684EC37A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C6D21D2-1EF3-4E8E-A76D-47A684EC37A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C6D21D2-1EF3-4E8E-A76D-47A684EC37A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41942743-5C25-488C-87AD-DCD7C83EFA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41942743-5C25-488C-87AD-DCD7C83EFA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41942743-5C25-488C-87AD-DCD7C83EFA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41942743-5C25-488C-87AD-DCD7C83EFA00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -155,6 +161,7 @@ Global
 		{2D8DEA9F-CDAC-4F2B-8626-BA36B0E29E76} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{DD0EB7F4-93DD-4FFB-97AD-2CF9EA4DDB7E} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{8C6D21D2-1EF3-4E8E-A76D-47A684EC37A8} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{41942743-5C25-488C-87AD-DCD7C83EFA00} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
