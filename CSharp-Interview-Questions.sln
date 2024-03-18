@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_DeepCopyVsShallowCopy", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_GarbageCollector", "Junior Level\25_GarbageCollector\25_GarbageCollector.csproj", "{09128BCC-CDF0-45A8-A7D9-477C9671E98A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Nullable", "Junior Level\Nullable\26_Nullable.csproj", "{02F27484-704F-4971-87CC-D994B404BDF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,6 +157,10 @@ Global
 		{09128BCC-CDF0-45A8-A7D9-477C9671E98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09128BCC-CDF0-45A8-A7D9-477C9671E98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09128BCC-CDF0-45A8-A7D9-477C9671E98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F27484-704F-4971-87CC-D994B404BDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F27484-704F-4971-87CC-D994B404BDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F27484-704F-4971-87CC-D994B404BDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F27484-704F-4971-87CC-D994B404BDF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -183,6 +189,7 @@ Global
 		{E130E65D-FFF7-4806-AFA6-DA16E249F7AE} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{09128BCC-CDF0-45A8-A7D9-477C9671E98A} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{02F27484-704F-4971-87CC-D994B404BDF0} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
