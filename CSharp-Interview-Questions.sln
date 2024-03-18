@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_EqualityChecking", "Juni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_IEnumerable", "Junior Level\22_IEnumerable\22_IEnumerable.csproj", "{E130E65D-FFF7-4806-AFA6-DA16E249F7AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_DeepCopyVsShallowCopy", "Junior Level\24_DeepCopyVsShallowCopy\24_DeepCopyVsShallowCopy.csproj", "{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{E130E65D-FFF7-4806-AFA6-DA16E249F7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E130E65D-FFF7-4806-AFA6-DA16E249F7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E130E65D-FFF7-4806-AFA6-DA16E249F7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,6 +175,7 @@ Global
 		{8C6D21D2-1EF3-4E8E-A76D-47A684EC37A8} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{7A7C2CEC-A14E-4DF7-91FE-0DD42FAE1B81} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{E130E65D-FFF7-4806-AFA6-DA16E249F7AE} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{E7A0580A-61C5-4BC9-ADBA-C9851D7FC64F} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
