@@ -23,6 +23,7 @@ static class ListExtensions
     public static void ClearIfNotNull(this List<int?> numbers)
     {
         numbers?.Clear();
+        // null değilse method çalışır
     }
 }
 
