@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_SphagettiCode", "Junior 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_GoTo", "Junior Level\39_GoTo\39_GoTo.csproj", "{4B67B87D-04D0-4FCF-A3D3-828A96B7137B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41_Singleton", "Junior Level\41_Singleton\41_Singleton.csproj", "{114EED9B-0397-4475-816C-052706130DF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,6 +247,10 @@ Global
 		{4B67B87D-04D0-4FCF-A3D3-828A96B7137B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B67B87D-04D0-4FCF-A3D3-828A96B7137B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B67B87D-04D0-4FCF-A3D3-828A96B7137B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114EED9B-0397-4475-816C-052706130DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114EED9B-0397-4475-816C-052706130DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114EED9B-0397-4475-816C-052706130DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114EED9B-0397-4475-816C-052706130DF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,6 +294,7 @@ Global
 		{0411FB24-2412-4EFB-B9B6-5CC7ABA10FCD} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{E1C16049-2195-4900-8A0D-9BA85D505878} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{4B67B87D-04D0-4FCF-A3D3-828A96B7137B} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{114EED9B-0397-4475-816C-052706130DF2} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
