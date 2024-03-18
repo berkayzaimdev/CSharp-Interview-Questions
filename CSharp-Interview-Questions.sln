@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_StaticClass", "Junior Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_TernaryOperator", "Junior Level\17_TernaryOperator\17_TernaryOperator.csproj", "{875A543C-D435-4F38-9837-086C459B7BE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_NullOperators", "Junior Level\18_NullOperators\18_NullOperators.csproj", "{8FB752D7-2BD3-4569-AFA7-D05E5E70B834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,10 @@ Global
 		{875A543C-D435-4F38-9837-086C459B7BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{875A543C-D435-4F38-9837-086C459B7BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{875A543C-D435-4F38-9837-086C459B7BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB752D7-2BD3-4569-AFA7-D05E5E70B834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB752D7-2BD3-4569-AFA7-D05E5E70B834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB752D7-2BD3-4569-AFA7-D05E5E70B834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB752D7-2BD3-4569-AFA7-D05E5E70B834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +133,7 @@ Global
 		{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{875A543C-D435-4F38-9837-086C459B7BE1} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{8FB752D7-2BD3-4569-AFA7-D05E5E70B834} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
