@@ -21,23 +21,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_BoxingAndUnboxing", "Jun
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_Exceptions", "Junior Level\07_Exceptions\07_Exceptions.csproj", "{6132FE85-94C5-4F6C-A628-45956B8F95D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_AccessModifiers", "Junior Level\08_AccessModifiers\08_AccessModifiers.csproj", "{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_AccessModifiers", "Junior Level\08_AccessModifiers\08_AccessModifiers.csproj", "{E0DA2A14-F6B5-4B40-87FC-5157DCDDEC27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DefaultAccessModifiers", "Junior Level\09_DefaultAccessModifiers\09_DefaultAccessModifiers.csproj", "{5434F739-516F-4060-A224-687E165A1B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_DefaultAccessModifiers", "Junior Level\09_DefaultAccessModifiers\09_DefaultAccessModifiers.csproj", "{5434F739-516F-4060-A224-687E165A1B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_SealedModifier", "Junior Level\10_SealedModifier\10_SealedModifier.csproj", "{F56E941B-460E-437E-A037-922B56E63EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_SealedModifier", "Junior Level\10_SealedModifier\10_SealedModifier.csproj", "{F56E941B-460E-437E-A037-922B56E63EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_ClassVsStruct", "Junior Level\12_ClassVsStruct\12_ClassVsStruct.csproj", "{7012DE49-14D4-4ECD-A08B-0898FB64A312}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_ClassVsStruct", "Junior Level\12_ClassVsStruct\12_ClassVsStruct.csproj", "{7012DE49-14D4-4ECD-A08B-0898FB64A312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_ParamsKeyword", "Junior Level\11_ParamsKeyword\11_ParamsKeyword.csproj", "{A3EFB2DA-FA8F-459D-A66D-084928933254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_ParamsKeyword", "Junior Level\11_ParamsKeyword\11_ParamsKeyword.csproj", "{A3EFB2DA-FA8F-459D-A66D-084928933254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_PartialClasses", "Junior Level\13_PartialClasses\13_PartialClasses.csproj", "{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_PartialClasses", "Junior Level\13_PartialClasses\13_PartialClasses.csproj", "{DCA1B229-AB30-4FC9-9051-33ED1DFD0A5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_NewKeyword", "Junior Level\14_NewKeyword\14_NewKeyword.csproj", "{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_NewKeyword", "Junior Level\14_NewKeyword\14_NewKeyword.csproj", "{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_StaticKeyword", "Junior Level\15_StaticKeyword\15_StaticKeyword.csproj", "{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_StaticKeyword", "Junior Level\15_StaticKeyword\15_StaticKeyword.csproj", "{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_StaticClass", "Junior Level\16_StaticClass\16_StaticClass.csproj", "{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_StaticClass", "Junior Level\16_StaticClass\16_StaticClass.csproj", "{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_TernaryOperator", "Junior Level\17_TernaryOperator\17_TernaryOperator.csproj", "{875A543C-D435-4F38-9837-086C459B7BE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +103,10 @@ Global
 		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875A543C-D435-4F38-9837-086C459B7BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875A543C-D435-4F38-9837-086C459B7BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875A543C-D435-4F38-9837-086C459B7BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875A543C-D435-4F38-9837-086C459B7BE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -120,6 +126,7 @@ Global
 		{58AD23D6-C6F0-4AD7-8BED-CC3C541303D6} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{D93FBBD9-18C7-4AAB-8379-FE78FDFB49AA} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 		{30BBC24A-A2EA-479D-B4E9-0C9F87AE00B7} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
+		{875A543C-D435-4F38-9837-086C459B7BE1} = {1AE62833-2820-45BA-BB4E-0FB0C1371818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55E2A566-899C-428D-AE24-1929A02A30DA}
